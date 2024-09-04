@@ -1,9 +1,14 @@
 {
     "versions": [
-      {
-        "version": "0.0.3",
-        "src": "https://github.com/jensengar/my-iwa/blob/master/docs/signed-bundle.swbn",
-        "channels": ["5-lts", "default"]
+        {
+            "version": "0.0.4",
+            "src": "https://github.com/jensengar/my-iwa/blob/master/docs/signed-bundle.0.0.4.swbn",
+            "channels": ["5-lts", "default"]
+        },
+        {
+            "version": "0.0.3",
+            "src": "https://github.com/jensengar/my-iwa/blob/master/docs/signed-bundle.swbn",
+            "channels": ["5-lts", "default"]
       }
     ]
   }

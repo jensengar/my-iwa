@@ -1,7 +1,8 @@
 {
   "short_name": "GarrettsAngular",
   "name": "Garretts Angular IWA",
-  "version": "0.0.3",
+  "version": "0.0.4",
+  "update_manifest_url": "https://github.com/jensengar/my-iwa/blob/master/docs/update-manifest.json",
   "icons": [
     {
       "src": "/images/icon.png",
