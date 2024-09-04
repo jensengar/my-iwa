@@ -1,6 +1,11 @@
 {
     "versions": [
         {
+            "version": "0.0.5",
+            "src": "https://github.com/jensengar/my-iwa/raw/master/docs/signed-bundle.0.0.5.swbn",
+            "channels": ["5-lts", "default"]
+        },
+        {
             "version": "0.0.4",
             "src": "https://github.com/jensengar/my-iwa/raw/master/docs/signed-bundle.0.0.4.swbn",
             "channels": ["5-lts", "default"]
