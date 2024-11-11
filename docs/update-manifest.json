@@ -1,19 +1,20 @@
 {
     "versions": [
         {
+            "version": "0.0.6",
+            "src": "https://github.com/jensengar/my-iwa/raw/master/docs/signed.0.0.6.swbn"
+        },
+        {
             "version": "0.0.5",
-            "src": "https://github.com/jensengar/my-iwa/raw/master/docs/signed-bundle.0.0.5.swbn",
-            "channels": ["5-lts", "default"]
+            "src": "https://github.com/jensengar/my-iwa/raw/master/docs/signed-bundle.0.0.5.swbn"
         },
         {
             "version": "0.0.4",
-            "src": "https://github.com/jensengar/my-iwa/raw/master/docs/signed-bundle.0.0.4.swbn",
-            "channels": ["5-lts", "default"]
+            "src": "https://github.com/jensengar/my-iwa/raw/master/docs/signed-bundle.0.0.4.swbn"
         },
         {
             "version": "0.0.3",
-            "src": "https://github.com/jensengar/my-iwa/raw/master/docs/signed-bundle.swbn",
-            "channels": ["5-lts", "default"]
+            "src": "https://github.com/jensengar/my-iwa/raw/master/docs/signed-bundle.swbn"
       }
     ]
   }
