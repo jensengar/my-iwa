@@ -18,6 +18,9 @@
     "@angular/platform-browser": "^18.2.0",
     "@angular/platform-browser-dynamic": "^18.2.0",
     "@angular/router": "^18.2.0",
+    "genesys-cloud-webrtc-sdk": "^9.2.4",
+    "node-polyfill-webpack-plugin": "^4.0.0",
+    "purecloud-platform-client-v2": "^207.0.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.10"

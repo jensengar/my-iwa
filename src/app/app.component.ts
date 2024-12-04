@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import GenesysCloudWebrtSdk from 'genesys-cloud-webrtc-sdk';
+import { InitService } from './services/init/init.service';
 
 @Component({
   selector: 'app-root',
@@ -10,4 +12,12 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'my-iwa';
+
+  constructor(private initService: InitService) {
+
+  }
+  
+  ngOnInit() {
+    this.initService.init();
+  }
 }
