@@ -34,12 +34,12 @@ export class AuthService {
 
   getAuthData (): SavedAuthData | undefined  {
     // TODO: don't commit this
-    return;
-    // return {
-    //   accessToken: 'nr6BoxVB50sv3Xdj4k-CUarLLaQfrhh-04_F7LXu0EizaTAbA32crbiRB1IxqEb_UXBe7kzGYVB1AI4z008L5Q',
-    //   envKey: 'inindca.com',
-    //   expires: new Date(Date.now() + 1000 * 60 * 60 * 24 * 7)
-    // };
+    // return;
+    return {
+      accessToken: '4s6Omp6imD-llvTwiqV6i-vAk8OXYe3u2p0lrWGi7K0tZLIyRQfD0NUAm52oOL62xy8xmOJpxLDwdXwfonyBIw',
+      envKey: 'inindca.com',
+      expires: new Date(Date.now() + 1000 * 60 * 60 * 24 * 7)
+    };
 
     // const savedData = localStorage.getItem(AUTH_DATA_KEY);
     // if (!savedData) {
