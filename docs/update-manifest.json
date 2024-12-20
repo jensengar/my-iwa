@@ -1,6 +1,10 @@
 {
     "versions": [
         {
+            "version": "0.0.22",
+            "src": "https://github.com/jensengar/my-iwa/raw/master/docs/signed.0.0.22.swbn"
+        },
+        {
             "version": "0.0.6",
             "src": "https://github.com/jensengar/my-iwa/raw/master/docs/signed.0.0.6.swbn"
         },
